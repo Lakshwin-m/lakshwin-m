@@ -1,29 +1,43 @@
-# Hi there 👋 Glad to see you here
+# Hi, I'm Lakshwin👋
 
-I am **Lakshwin**, a 20-year-old engineering student aspiring to become an ML Engineer and **Founder of [./localhost](https://www.localhostlabs.in)** — a team dedicated to developing innovative AI-driven applications.  
-At ./localhost, we are currently building *Forá*, a **time capsule messaging application** designed to preserve and deliver memories to the future.
+**ML Engineer building supply chain automation and Founder & CTO of ./localhost**
 
----
+### Currently building
 
-### Technical Skills  
-Python, JavaScript, TypeScript, SQL, C | React.js, Next.js | TensorFlow, scikit-learn, NLTK, spaCy | Pandas, NumPy, Plotly, Matplotlib
+<div align="center">
 
----
+<table>
+<tr>
+<td align="center" width="50%">
 
-## 📂 Current Projects
+<strong>ARAM</strong><br>
+AI workspace for knowledge
 
-### Time Series Forecasting for Ubiquitous Data using TensorFlow & Conv1D  
-Developing a robust deep learning pipeline leveraging TensorFlow and Conv1D architectures to forecast and detect anomalies in large-scale ubiquitous datasets such as energy consumption and IoT sensor data.  
+</td>
+<td align="center" width="50%">
 
+<strong>Tattvam</strong><br>
+Role-aware enterprise RAG
 
-### Brain Tumor Classification  
-Implementing a convolutional neural network (CNN) model for accurate classification of brain tumors from MRI scans. This project supports early diagnosis and improves medical imaging analysis.  
+</td>
+</tr>
 
+<tr>
+<td align="center">
 
-### Forá (./localhost)  
-Building *Forá*, a time capsule messaging platform that enables users to compose messages to be sent and received at future dates, preserving memories and important information across time.  
+<strong>Forá</strong><br>
+Time capsule messaging
 
+</td>
+<td align="center">
 
----
+<strong>./localhost</strong><br>
+A team turning ideas into products
 
-For hobbies – Listening to music 🎧 | Cinematography geek 🎥 | Participating in hackathons 💻 | Experimenting with new AI models 🤓
+</td>
+</tr>
+</table>
+
+</div>
+
+Usually found building something, overthinking it, then building it again.
